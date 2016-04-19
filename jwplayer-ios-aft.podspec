@@ -1,4 +1,4 @@
-/bin/bash: q: command not found
+Pod::Spec.new do |s|
 
   s.name         = "jwplayer-ios-aft"
   s.version      = "2.3.0"
