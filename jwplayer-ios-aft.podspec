@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   
   s.platform     = :ios, "8.0"
   s.documentation_url = "http://developer.jwplayer.com/sdk/ios/docs/developer-guide/"
-  s.source       = { :git => "https://github.com/Aftonbladet/jwplayer-ios-aft.git", :tag => 'abpatch' }
+  s.source       = { :git => "https://github.com/Aftonbladet/jwplayer-ios-aft.git", :tag => '2.3.0' }
 
   s.ios.vendored_library = "libJWPlayer-iOS-SDK.a"
 #  s.source_files = "Headers/*.h"
